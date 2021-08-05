@@ -1,39 +1,63 @@
 {
-  "name": "تطبيق يلا كورة اون لاين",
+  "name": "يلا كورة اون لاين",
   "short_name": "يلا كورة اون لاين",
-  "scope": "https://www.yalla-kora-online.com/",
-  "start_url": "https://www.yalla-kora-online.com/",
   "display": "standalone",
+  "prefer_related_applications": false,
+  "start_url": "https://www.yalla-kora-online.com/?view=app",
+  "scope": "https://www.yalla-kora-online.com/",
   "background_color": "#fff",
   "theme_color": "#741b47",
   "description": "تطبيق يلا كورة اون لاين",
-  "icons": [{
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s48/yalla-kora-online.jpg",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s72/yalla-kora-online.jpg",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s96/yalla-kora-online.jpg",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s144/yalla-kora-online.jpg",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s168/yalla-kora-online.jpg",
-    "sizes": "168x168",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s192/yalla-kora-online.jpg",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s512/yalla-kora-online.jpg",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
+  "lang": "id",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s36/yalla-kora-online.jpg",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s48/yalla-kora-online.jpg",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s72/yalla-kora-online.jpg",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s96/yalla-kora-online.jpg",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s144/yalla-kora-online.jpg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s192/yalla-kora-online.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Nsu6N78juac/YQw-Qx1vR5I/AAAAAAAAAPQ/DKk21zG4pTAEN0wqp6FAPE9iUIWyIXq2QCLcBGAsYHQ/s512/yalla-kora-online.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    }
+  ]
 }
